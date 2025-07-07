@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Build files
+frontend/build/
+frontend/.env
+
+# Editor files
+.vscode/
+.idea/
+
+# System files
+.DS_Store
